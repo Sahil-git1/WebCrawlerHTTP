@@ -1,0 +1,16 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Node.js Project to get structural data of a website.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
